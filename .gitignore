@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/roman-numerals/bin/Debug/netcoreapp3.1
+/roman-numerals/obj
+/.vs
+/roman-numerals/.vs/roman-numerals/v16/Server/sqlite3
+/roman-numerals/.vs/roman-numerals/v16/.suo
